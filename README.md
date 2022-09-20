@@ -13,5 +13,7 @@ This is a simple  web project, deployment can be on any web server or local file
 
 ## How To Contribute
 
+please update the code and request a pull
+
 ## Copyright Notice
 Copyright 2022 Git Training all rights reservered
