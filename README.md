@@ -1,7 +1,7 @@
 #Saerter Web Project
 
 This is a simple website project for showing how to use Git and Github together. This readme file will help my students understand the real reason 
-GIT is a helpful tool in development. 
+GIT is a helpful tool in development. This was the best class every
 
 ## Introduction shoe dirrent part of Git and 
 This is an example to show diffrent parts of Git repository and various commands used in thsi Web Project. 
