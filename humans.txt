@@ -6,7 +6,7 @@
     John Doe -- Jdoe@gmail.com -- @Jdoe
 
 # THANKS
-
+Thanksto all my students for helping this course be productive.
     <name>
 
 # TECHNOLOGY COLOPHON
